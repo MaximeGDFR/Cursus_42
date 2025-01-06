@@ -23,7 +23,7 @@
 		<tr>
 			<td>00</td>
 			<td><a href="lien libft">Libft</a></td>
-			<td>Library, Makefile, Linked list</td>
+			<td>`Library` `Makefile` `Linked list` </td>
 			<td>C, Rigor</td>
 			<td>Every function explained</td>
 			<td>
