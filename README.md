@@ -27,7 +27,7 @@
 			<td><code>Library</code> <code>Makefile</code> <code>Linked list</code></td>
 			<td>C, Rigor</td>
 			<td>Every function explained</td>
-			<td style="background-color: green; color: white; text-align: center; vertical-align: middle;">
+			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;">
   <code>125 / 100</code>
 </td>
 		</tr>
