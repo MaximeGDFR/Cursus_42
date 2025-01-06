@@ -32,7 +32,7 @@
 			<td>01</td>
 			<td><a href="lien GNL">Get_Next_Line</a></td>
 			<td><code>File descriptor</code></td>
-			<td>C, Rigor</td>
+			<td></td>
 			<td>Loading...</td>
 			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code>125 / 100</code></td>
 		</tr>
@@ -40,40 +40,40 @@
 			<td>01</td>
 			<td><a href="lien ft_printf">ft_printf</a></td>
 			<td><code>Variadic args</code></td>
-			<td>C, Rigor</td>
-			<td>Loading...</td>
+			<td></td>
+			<td></td>
 			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code>125 / 100</code></td>
 		</tr>
 		<tr>
 			<td>01</td>
 			<td>Born2BeRoot</td>
-			<td>Loading...</td>
+			<td></td>
 			<td>C, Rigor</td>
-			<td>Loading...</td>
+			<td></td>
 			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code>125 / 100</code></td>
 		</tr>
 		<tr>
 			<td>02</td>
 			<td><a href="https://github.com/ulyssegerkens/push_swap">Push Swap</a></td>
-			<td>Loading...</td>
-			<td>C, Rigor</td>
-			<td>Loading...</td>
+			<td></td>
+			<td></td>
+			<td></td>
 			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code>125 / 100</code></td>
 		</tr>
 		<tr>
 			<td>02</td>
 			<td><a href="lien fdf">Fdf</a></td>
-			<td>Loading...</td>
-			<td>C, Rigor</td>
-			<td>Loading...</td>
+			<td></td>
+			<td></td>
+			<td></td>
 			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code>125 / 100</code></td>
 		</tr>
 		<tr>
 			<td>02</td>
 			<td><a href="lien pipex">Pipex</a></td>
-			<td>Loading...</td>
-			<td>C, Rigor</td>
-			<td>Loading...</td>
+			<td></td>
+			<td></td>
+			<td></td>
 			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code>125 / 100</code></td>
 		</tr>	
 	</tbody>
