@@ -35,6 +35,7 @@
 		<tr>
 			<td>01</td>
 			<td><a href="https://github.com/ulyssegerkens/get_next_line">Get_Next_Line</a></td>
+			<td></td>Library, Makefile, Linked list</td>
 			<td>C, Rigor, Memory allocation</td>
 			<td></td>
 			<td>
@@ -44,6 +45,7 @@
 		<tr>
 			<td>01</td>
 			<td><a href="https://github.com/ulyssegerkens/printf">ft_printf</a></td>
+			<td></td>Library, Makefile, Linked list</td>
 			<td>variadic args</td>
 			<td></td>
 			<td>
@@ -53,6 +55,7 @@
 		<tr>
 			<td>01</td>
 			<td>Born2BeRoot</td>
+			<td></td>Library, Makefile, Linked list</td>
 			<td>Network & system administration</td>
 			<td></td>
 			<td>
@@ -62,6 +65,7 @@
 		<tr>
 			<td>02</td>
 			<td><a href="https://github.com/ulyssegerkens/push_swap">Push Swap</a></td>
+			<td></td>Library, Makefile, Linked list</td>
 			<td>Sorting algorithms</td>
 			<td>+ <a href="https://medium.com/@ulysse.gerkens/push-swap-in-less-than-4200-operations-c292f034f6c0">article</a></td>
 			<td>
@@ -80,6 +84,7 @@
 		<tr>
 			<td>02</td>
 			<td><a href="https://github.com/ulyssegerkens/pipex">Pipex</a></td>
+			<td></td>Library, Makefile, Linked list</td>
 			<td>UNIX, pipe, process, fd</td>
 			<td></td>
 			<td>
