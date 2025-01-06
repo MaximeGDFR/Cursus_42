@@ -72,12 +72,10 @@
 		<tr>
 			<td>02</td>
 			<td><a href="https://github.com/ulyssegerkens/pipex">Pipex</a></td>
-			<td>Library, Makefile, Linked list</td>
-			<td>UNIX, pipe, process, fd</td>
-			<td></td>
-			<td>
-				<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="125 Score"/ </picture>
-			</td>
+			<td><code>Loading...</code></td>
+			<td>C, Rigor</td>
+			<td>Loading...</td>
+			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code>125 / 100</code></td>
 		</tr>	
 	</tbody>
 </table>
