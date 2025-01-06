@@ -79,11 +79,3 @@
 		</tr>	
 	</tbody>
 </table>
-<br>
-<br>
-<p align="center">
-	<a href="https://42lehavre.fr/">
-	<img  width="150" src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/2eb721b3-5b33-4703-9922-684aadbbdc76">
-	</a>
-</p>
-<br>
