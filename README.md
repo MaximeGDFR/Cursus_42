@@ -27,59 +27,47 @@
 			<td><code>Library</code> <code>Makefile</code> <code>Linked list</code></td>
 			<td>C, Rigor</td>
 			<td>Every function explained</td>
-			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;">
-  <code>125 / 100</code>
-</td>
+			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code>125 / 100</code></td>
 		</tr>
 		<tr>
 			<td>01</td>
-			<td><a href="https://github.com/ulyssegerkens/get_next_line">Get_Next_Line</a></td>
-			<td>Library, Makefile, Linked list</td>
-			<td>C, Rigor, Memory allocation</td>
-			<td></td>
-			<td>
-				<picture><img src="https://github.com/maximegdfr/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="125 Score" /></picture>
-			</td>
+			<td><a href="lien GNL">Get_Next_Line</a></td>
+			<td><code>Loading...</code></td>
+			<td>C, Rigor</td>
+			<td>Loading...</td>
+			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code>125 / 100</code></td>
 		</tr>
 		<tr>
 			<td>01</td>
 			<td><a href="https://github.com/ulyssegerkens/printf">ft_printf</a></td>
-			<td>Library, Makefile, Linked list</td>
-			<td>variadic args</td>
-			<td></td>
-			<td>
-				<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/2f5ffb87-cc99-4ab2-910e-3b3ac5917541" alt="100 Score" /></picture>
-			</td>
+			<td><code>Loading...</code></td>
+			<td>C, Rigor</td>
+			<td>Loading...</td>
+			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code>125 / 100</code></td>
 		</tr>
 		<tr>
 			<td>01</td>
 			<td>Born2BeRoot</td>
-			<td>Library, Makefile, Linked list</td>
-			<td>Network & system administration</td>
-			<td></td>
-			<td>
-				<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="125 Score"/></picture>
-			</td>
+			<td><code>Loading...</code></td>
+			<td>C, Rigor</td>
+			<td>Loading...</td>
+			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code>125 / 100</code></td>
 		</tr>
 		<tr>
 			<td>02</td>
 			<td><a href="https://github.com/ulyssegerkens/push_swap">Push Swap</a></td>
-			<td>Library, Makefile, Linked list</td>
-			<td>Sorting algorithms</td>
-			<td>+ <a href="https://medium.com/@ulysse.gerkens/push-swap-in-less-than-4200-operations-c292f034f6c0">article</a></td>
-			<td>
-				<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="125 Score"/></picture>
-			</td>
+			<td><code>Loading...</code></td>
+			<td>C, Rigor</td>
+			<td>Loading...</td>
+			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code>125 / 100</code></td>
 		</tr>
 		<tr>
 			<td>02</td>
 			<td><a href="https://github.com/ulyssegerkens/so_long">Fdf</a></td>
-			<td>Library, Makefile, Linked list</td>
-			<td>Graphics Library, Code Architecture</td>
-			<td></td>
-			<td>
-			<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="125 Score"/ </picture>
-			</td>
+			<td><code>Loading...</code></td>
+			<td>C, Rigor</td>
+			<td>Loading...</td>
+			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code>125 / 100</code></td>
 		</tr>
 		<tr>
 			<td>02</td>
