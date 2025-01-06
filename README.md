@@ -23,11 +23,7 @@
 		<tr>
 			<td>00</td>
 			<td><a href="lien libft">Libft</a></td>
-			<td>
-				<span style="font-weight: bold; background-color: #d3d3d3; padding: 2px 5px; border-radius: 4px;">Library</span>
-				<span style="font-weight: bold; background-color: #d3d3d3; padding: 2px 5px; border-radius: 4px;">Makefile</span>
-				<span style="font-weight: bold; background-color: #d3d3d3; padding: 2px 5px; border-radius: 4px;">Linked list</span>
-			</td>
+			<td><code>Library</code> <code>Makefile</code> <code>Linked list</code></td>
 			<td>C, Rigor</td>
 			<td>Every function explained</td>
 			<td>
