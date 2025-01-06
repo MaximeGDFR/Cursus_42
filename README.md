@@ -39,7 +39,7 @@
 		<tr>
 			<td>01</td>
 			<td><a href="lien ft_printf">ft_printf</a></td>
-			<td><code>Loading...</code></td>
+			<td><code>Variadic args</code></td>
 			<td>C, Rigor</td>
 			<td>Loading...</td>
 			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code>125 / 100</code></td>
