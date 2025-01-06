@@ -2,7 +2,7 @@
 
 <p align="center">
 	<b>
-	Projects achieved at <a href="https://42lehavre.fr/">42 Le Havre</a> : programming school.
+	Projects achieved at <a href="https://42lehavre.fr/">42 Le Havre</a>.
 	<br>
 	Start in April 2023. Intra profile: <a href="https://profile.intra.42.fr/users/ugerkens">ugerkens</a>.
 	<br><br>
