@@ -38,7 +38,7 @@
 		</tr>
 		<tr>
 			<td>01</td>
-			<td><a href="https://github.com/ulyssegerkens/printf">ft_printf</a></td>
+			<td><a href="lien ft_printf">ft_printf</a></td>
 			<td><code>Loading...</code></td>
 			<td>C, Rigor</td>
 			<td>Loading...</td>
@@ -62,7 +62,7 @@
 		</tr>
 		<tr>
 			<td>02</td>
-			<td><a href="https://github.com/ulyssegerkens/so_long">Fdf</a></td>
+			<td><a href="lien fdf">Fdf</a></td>
 			<td><code>Loading...</code></td>
 			<td>C, Rigor</td>
 			<td>Loading...</td>
@@ -70,7 +70,7 @@
 		</tr>
 		<tr>
 			<td>02</td>
-			<td><a href="https://github.com/ulyssegerkens/pipex">Pipex</a></td>
+			<td><a href="lien pipex">Pipex</a></td>
 			<td><code>Loading...</code></td>
 			<td>C, Rigor</td>
 			<td>Loading...</td>
