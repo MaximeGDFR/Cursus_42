@@ -1,4 +1,3 @@
-
 # Cursus_42
 
 <p align="center">
