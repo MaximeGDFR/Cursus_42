@@ -5,7 +5,7 @@
 	<b>
 	Projects achieved at <a href="https://42lehavre.fr/">42 Le Havre</a>.
 	<br>
-	Start in Pctober 2024. Intra profile: <a href="https://profile.intra.42.fr/users/mgodefro">mgodefro</a>.
+	Start in October 2024. Intra profile: <a href="https://profile.intra.42.fr/users/mgodefro">mgodefro</a>.
 	<br><br>
 	</b>
 </p>
@@ -24,12 +24,8 @@
 		<tr>
 			<td>00</td>
 			<td><a href="lien libft">Libft</a></td>
-			<td>- Library
-- Makefile
-- Linked list
-</td>
+			<td><code>Library</code> <code>Makefile</code> <code>Linked list</code></td>
 			<td>C, Rigor</td>
-      <td><code>Library</code> <code>Makefile</code> <code>Linked list</code></td>
 			<td>Every function explained</td>
 			<td>
 				<picture>
