@@ -32,7 +32,7 @@
 		</tr>
 		<tr>
 			<td>01</td>
-			<td><a href="https://github.com/ulyssegerkens/get_next_line">📃 Get Next Line</a></td>
+			<td><a href="https://github.com/ulyssegerkens/get_next_line">Get_Next_Line</a></td>
 			<td>C, Rigor, Memory allocation</td>
 			<td>without any leaks</td>
 			<td>
@@ -41,7 +41,7 @@
 		</tr>
 		<tr>
 			<td>01</td>
-			<td><a href="https://github.com/ulyssegerkens/printf">🖨️ Printf</a></td>
+			<td><a href="https://github.com/ulyssegerkens/printf">ft_printf</a></td>
 			<td>variadic args</td>
 			<td></td>
 			<td>
@@ -50,7 +50,7 @@
 		</tr>
 		<tr>
 			<td>01</td>
-			<td>💾 Born2BeRoot</td>
+			<td>Born2BeRoot</td>
 			<td>Network & system administration</td>
 			<td></td>
 			<td>
@@ -89,7 +89,7 @@
 <br>
 <br>
 <p align="center">
-	<a href="https://campus19.be/">
+	<a href="https://42lehavre.fr/">
 	<img  width="150" src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/2eb721b3-5b33-4703-9922-684aadbbdc76">
 	</a>
 </p>
