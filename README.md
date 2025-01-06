@@ -23,9 +23,9 @@
 		<tr>
 			<td>00</td>
 			<td><a href="lien libft">Libft</a></td>
-			<td></td>`Library` `Makefile` `Linked list`</td>
+			<td></td>Library, Makefile, Linked list</td>
 			<td>C, Rigor</td>
-			<td>Every function explained.</td>
+			<td>Every function explained</td>
 			<td>
 				<picture>
 					<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/99326326/257079949-70ee5416-6694-4b0c-833b-bb410255057a.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250106%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250106T185344Z&X-Amz-Expires=300&X-Amz-Signature=b3f1b92293c478d6194257185e6789448a49da6e409149c121a99d42987e3194&X-Amz-SignedHeaders=host" alt="ugerkens's 42 Libft Score" />
