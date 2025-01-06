@@ -58,7 +58,7 @@
 			<td></td>
 			<td></td>
 			<td></td>
-			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code></code></td>
+			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"></td>
 		</tr>
 		<tr>
 			<td>02</td>
@@ -66,7 +66,7 @@
 			<td></td>
 			<td></td>
 			<td></td>
-			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code></code></td>
+			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"></td>
 		</tr>
 		<tr>
 			<td>02</td>
@@ -74,7 +74,7 @@
 			<td></td>
 			<td></td>
 			<td></td>
-			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code></code></td>
+			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"></td>
 		</tr>	
 	</tbody>
 </table>
