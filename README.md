@@ -42,7 +42,7 @@
 			<td><code>Variadic args</code></td>
 			<td></td>
 			<td></td>
-			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code>125 / 100</code></td>
+			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code>124 / 100</code></td>
 		</tr>
 		<tr>
 			<td>01</td>
@@ -50,7 +50,7 @@
 			<td></td>
 			<td></td>
 			<td></td>
-			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code>125 / 100</code></td>
+			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code>110 / 100</code></td>
 		</tr>
 		<tr>
 			<td>02</td>
@@ -58,7 +58,7 @@
 			<td></td>
 			<td></td>
 			<td></td>
-			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code>125 / 100</code></td>
+			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code></code></td>
 		</tr>
 		<tr>
 			<td>02</td>
@@ -66,7 +66,7 @@
 			<td></td>
 			<td></td>
 			<td></td>
-			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code>125 / 100</code></td>
+			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code></code></td>
 		</tr>
 		<tr>
 			<td>02</td>
@@ -74,7 +74,7 @@
 			<td></td>
 			<td></td>
 			<td></td>
-			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code>125 / 100</code></td>
+			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code></code></td>
 		</tr>	
 	</tbody>
 </table>
