@@ -34,7 +34,7 @@
 			<td>01</td>
 			<td><a href="https://github.com/ulyssegerkens/get_next_line">Get_Next_Line</a></td>
 			<td>C, Rigor, Memory allocation</td>
-			<td>without any leaks</td>
+			<td></td>
 			<td>
 				<picture><img src="https://github.com/ulyssegerkens/42-Cursus/assets/99326326/70ee5416-6694-4b0c-833b-bb410255057a" alt="125 Score" /></picture>
 			</td>
