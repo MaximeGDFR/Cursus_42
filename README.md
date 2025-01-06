@@ -4,7 +4,7 @@
 	<b>
 	Projects achieved at <a href="https://42lehavre.fr/">42 Le Havre</a>.
 	<br>
-	Start in April 2023. Intra profile: <a href="https://profile.intra.42.fr/users/ugerkens">ugerkens</a>.
+	Start in Pctober 2024. Intra profile: <a href="https://profile.intra.42.fr/users/mgodefro">mgodefr</a>.
 	<br><br>
 	</b>
 </p>
