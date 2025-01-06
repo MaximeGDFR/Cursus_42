@@ -75,6 +75,7 @@
 		<tr>
 			<td>02</td>
 			<td><a href="https://github.com/ulyssegerkens/so_long">Fdf</a></td>
+			<td></td>Library, Makefile, Linked list</td>
 			<td>Graphics Library, Code Architecture</td>
 			<td></td>
 			<td>
