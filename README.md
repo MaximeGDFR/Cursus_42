@@ -48,7 +48,7 @@
 			<td>01</td>
 			<td>Born2BeRoot</td>
 			<td></td>
-			<td>C, Rigor</td>
+			<td></td>
 			<td></td>
 			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code>125 / 100</code></td>
 		</tr>
