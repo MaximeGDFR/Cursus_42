@@ -30,7 +30,7 @@
 		</tr>
 		<tr>
 			<td>01</td>
-			<td><a href="lien GNL">Get_Next_Line</a></td>
+			<td><a href="https://github.com/MaximeGDFR/GNL_42">Get_Next_Line</a></td>
 			<td><code>File descriptor</code></td>
 			<td></td>
 			<td>Loading...</td>
