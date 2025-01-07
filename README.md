@@ -31,8 +31,8 @@
 		<tr>
 			<td>01</td>
 			<td><a href="https://github.com/MaximeGDFR/GNL_42">Get_Next_Line</a></td>
-			<td><code>File descriptor</code></td>
-			<td></td>
+			<td><code>File descriptor</code> <code>Static variable</code></td>
+			<td>Rigor, Unix, Algorithms & AI</td>
 			<td>Loading...</td>
 			<td style="background-color: green; color: white; text-align: center; vertical-align: middle; padding: 10px;"><code>125 / 100</code></td>
 		</tr>
